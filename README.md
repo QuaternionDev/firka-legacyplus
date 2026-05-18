@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/QwIT-Development/app-legacy/2d22a8de31de8a46424a3a3dafb686f7f21942d9/dave.gif" alt width="100px"> Firka - *reFilc legacy*
+# <img src="https://raw.githubusercontent.com/QwIT-Development/app-legacy/2d22a8de31de8a46424a3a3dafb686f7f21942d9/dave.gif" alt width="100px"> Firka *legacy plus*
 
 ### Nem hivatalos e-napló alkalmazás az e-KRÉTA rendszerhez - tanulóktól, tanulóknak.
 
@@ -22,7 +22,12 @@ Az összes (ugyan azon verzióhoz tartozó) hozzájárulás meg fog jelenni a ki
  </picture>
 </a>
 
-# Csapatunk
+# A forkot készítette
+QuaternionDev
+
+---
+
+# A Firka Csapata
 
 **Management**
 - Zypherift
